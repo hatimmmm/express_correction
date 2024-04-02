@@ -12,7 +12,7 @@ First of all, please launch this before using the app
 npm install
 ```
 
-then start the app by typing this command-line ``npm run dev```
+then start the app by typing this command-line ``npm run dev``
 
 
 ### Additional challenge
