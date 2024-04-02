@@ -3,7 +3,7 @@
 ### Express correction - 1st Part
 
 
-Thank you everyone for attending our correction lecture of that challenge (here)[]
+Thank you everyone for attending our correction lecture of that challenge (here)[https://github.com/0Kaz/express_app]
 
 
 First of all, please launch this before using the app
