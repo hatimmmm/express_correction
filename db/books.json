@@ -1,8 +1,10 @@
 [
   {
-    "id": 5,
-    "title": "Hyperion",
-    "author": "Dan Simmons",
-    "year": 1992
+    "id": 1,
+    "title": "dune",
+    "author": [
+      "frank herbert",
+      ""
+    ]
   }
 ]
